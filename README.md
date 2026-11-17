@@ -18,13 +18,7 @@ Install both free programs before running the code:
 
 ## Wiring
 
-Both joysticks take `+5V → 5V` and `GND → GND`. 
-
-| Joystick Pin | Left Stick (Cursor) | Right Stick (Scroll / Clicks) |
-| **VRx**      | `A0`                | `A2`                          | 
-| **VRy**      | `A1`                | `A3`                          |
-| **SW**       | `D2`                | `D3`                          |
-
+check the 'Wiring' folder for the wirings and diagram !!
 ---
 
 ## How to Run It
