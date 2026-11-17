@@ -37,6 +37,7 @@ Check the **Wiring** folder for the wirings and diagram!
    * Press **`SPACE`**, or **hold the left stick’s button for 1 second**, to go live. Leave the Processing window open while you use it.
 
 *(Note: If either IDE asks to move a file into a folder with the same name, click **Yes**).*
+*(Note: The **Processing** script should always be running/live at the background !!).*
 
 ---
 
