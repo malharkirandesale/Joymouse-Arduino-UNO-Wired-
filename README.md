@@ -1,4 +1,4 @@
-# Dual Joystick USB Mouse (Arduino Uno R3 + Processing)
+# Joymouse (Arduino UNO/Wired)
 
 Turn an **Arduino Uno R3** and **two analog thumbstick modules** into a working USB computer mouse. 
 
