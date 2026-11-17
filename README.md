@@ -18,7 +18,7 @@ Install both free programs before running the code:
 
 ## Wiring
 
-**check the 'Wiring' folder for the wirings and diagram !!**
+Check the **Wiring** folder for the wirings and diagram!
 ---
 
 ## How to Run It
