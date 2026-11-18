@@ -12,7 +12,7 @@ Because the Uno R3 can’t act as a USB mouse by itself, the Arduino reads both 
 
 * Arduino UNO R3 (X1)
 * Joystick (HW-504) (X2)
-* Male to Female Jumper Wires (X10)
+* Male to Female Jumper Wires (X10~20)
 * Breadboard (Optional) (X1)
 
 ---
